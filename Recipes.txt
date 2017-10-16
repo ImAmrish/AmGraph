@@ -4,3 +4,5 @@ We have some recipes
 
 1. Kheer
 2. Paneer
+3. Puri
+4. Pasta
